@@ -1,4 +1,4 @@
-# I believed I could, so I opened IntelliJ.
+# Built on localhost, tested by Aliza, shipped eventually.
 Passionate about **backend engineering and application development**, with hands-on experience building Java and Spring Boot applications using RESTful APIs, layered architecture, JPA/Hibernate, database integration, authentication and authorization, validation, exception handling, and testing. Currently expanding my knowledge of **caching, asynchronous communication, Docker, and scalable backend systems**.<br>
 
 
